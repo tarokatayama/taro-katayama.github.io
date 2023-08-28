@@ -24,6 +24,8 @@ Final project that looked at campgrounds in Alaska and their proximity to Nation
 ## R Data Visualization
 Leaf wetness sensor time series with real time camera footage of fog.
 
-https://github.com/tarokatayama/tarokatayama.github.io/assets/97321122/1687b06d-6199-49e6-a999-e1f1342b9e84
+https://github.com/tarokatayama/tarokatayama.github.io/assets/97321122/a5d88062-67f0-46a1-8194-b7410ba66c75
+
+
 
 
