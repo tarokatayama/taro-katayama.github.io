@@ -21,6 +21,6 @@ A silly project that looked at the number of fast food restuarants in Waterville
 
 Final project that looked at campgrounds in Alaska and their proximity to National Parks. Dashboard allows user to select specific park type and specific park.
 
-
-
+## R Data Visualization
+Leaf wetness sensor time series with real time camera footage of fog.
 https://github.com/tarokatayama/tarokatayama.github.io/assets/97321122/fad9fbeb-0929-4541-8a95-e8cd85068dbf
