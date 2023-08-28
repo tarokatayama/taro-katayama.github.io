@@ -13,9 +13,10 @@
 
 Analysis part of Master's Project with Rivian Automotive, looking at the water usage impact of mining for battery minerals. Analysis performed included an ArcGIS Pro water scarcity map, as well as an ArcGIS online dashboard, which shows mines with high water usage and underlying water scarcity issues.
 
-
 [Waterville: Fast Food of the United States?](https://storymaps.arcgis.com/stories/8902d7ea4fd34bf3b7079dd8e9df9931)
+
+A silly project that looked at the number of fast food restuarants in Waterville, ME and verified an urban legend of the town- that Waterville was the Fast Food Capital of the United States (most fast food restuarants per capita). This project utilized jupyter notebook, ArcGIS online storymaps & dashboard.
 
 [Nearest Camp to National Park: Alaska](https://dukeuniv.maps.arcgis.com/apps/dashboards/27fd8beb14944ad7afc02bdbb27d1110)
 
-
+Final project that looked at campgrounds in Alaska and their proximity to National Parks. Dashboard allows user to select specific park type and specific park.
