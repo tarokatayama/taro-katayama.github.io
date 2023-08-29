@@ -1,11 +1,12 @@
 title: Taro's Homepage
 url: https://tarokatayama.github.io
+theme: jekyll-theme-minimal
 
 author:
   name: Taro Katayama (He/Him)
-  avatar: IMG_6862.png
+  logo: IMG_6862.png
   description: Aspiring data scientist interested in water related issues, specifically water rights and water sustainability
   location: Laramie, Wyoming
   email: tarokatayama1@gmail.com
   show_downloads: true
-  theme: jekyll-theme-minimal
+  
