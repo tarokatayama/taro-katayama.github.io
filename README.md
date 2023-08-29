@@ -6,6 +6,10 @@
 - M.E.M., Water Resources Management	| Duke University Nicholas School of the Environment (_May 2023_)	 			        		
 - B.A., Environmental Science | Colby College (_May 2019_)
 
+## CV
+
+[CV](https://github.com/tarokatayama/tarokatayama.github.io/blob/main/files/Katayama_Federal_Resume.pdf)
+
 ## Projects
 ### GIS Project links:
 
